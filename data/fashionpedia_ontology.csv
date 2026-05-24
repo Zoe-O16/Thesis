@@ -1,0 +1,308 @@
+term,category
+shirt,noun
+blouse,noun
+top,noun
+t-shirt,noun
+sweatshirt,noun
+sweater,noun
+cardigan,noun
+jacket,noun
+vest,noun
+pants,noun
+shorts,noun
+skirt,noun
+coat,noun
+dress,noun
+jumpsuit,noun
+cape,noun
+glasses,noun
+hat,noun
+headband,noun
+head covering,noun
+hair accessory,noun
+tie,noun
+glove,noun
+watch,noun
+belt,noun
+leg warmer,noun
+tights,noun
+stockings,noun
+sock,noun
+shoe,noun
+bag,noun
+wallet,noun
+scarf,noun
+umbrella,noun
+hood,noun
+collar,noun
+lapel,noun
+epaulette,noun
+sleeve,noun
+pocket,noun
+neckline,noun
+buckle,noun
+zipper,noun
+applique,noun
+bead,noun
+bow,noun
+flower,noun
+fringe,noun
+ribbon,noun
+rivet,noun
+ruffle,noun
+sequin,noun
+tassel,noun
+classic,adjective
+polo,adjective
+undershirt,adjective
+henley,adjective
+ringer,adjective
+raglan,adjective
+rugby,adjective
+sailor,adjective
+crop,adjective
+halter,adjective
+camisole,adjective
+tank,adjective
+peasant,adjective
+tube,adjective
+tunic,adjective
+smock,adjective
+hoodie,adjective
+blazer,adjective
+pea,adjective
+puffer,adjective
+biker,adjective
+trucker,adjective
+bomber,adjective
+anorak,adjective
+safari,adjective
+mao,adjective
+nehru,adjective
+norfolk,adjective
+classic military,adjective
+track,adjective
+windbreaker,adjective
+chanel,adjective
+bolero,adjective
+tuxedo,adjective
+varsity,adjective
+jeans,adjective
+sweatpants,adjective
+leggings,adjective
+hip-huggers,adjective
+cargo,adjective
+culottes,adjective
+capri,adjective
+harem,adjective
+jodhpur,adjective
+peg,adjective
+camo,adjective
+short,adjective
+booty,adjective
+bermuda,adjective
+trunks,adjective
+boardshorts,adjective
+skort,adjective
+roll-up,adjective
+tie-up,adjective
+culotte,adjective
+lounge,adjective
+bloomers,adjective
+tutu,adjective
+kilt,adjective
+wrap,adjective
+skater,adjective
+hobble,adjective
+sheath,adjective
+ball gown,adjective
+gypsy,adjective
+rah-rah,adjective
+prairie,adjective
+flamenco,adjective
+accordion,adjective
+sarong,adjective
+tulip,adjective
+dirndl,adjective
+godet,adjective
+blanket,adjective
+parka,adjective
+trench,adjective
+shearling,adjective
+teddy bear,adjective
+duster,adjective
+raincoat,adjective
+kimono,adjective
+robe,adjective
+duffle,adjective
+military,adjective
+swing,adjective
+chemise,adjective
+slip,adjective
+cheongsams,adjective
+jumper,adjective
+shift,adjective
+sundress,adjective
+kaftan,adjective
+bodycon,adjective
+nightgown,adjective
+gown,adjective
+tea,adjective
+blouson,adjective
+asymmetrical,adjective
+symmetrical,adjective
+peplum,adjective
+circle,adjective
+flare,adjective
+fit and flare,adjective
+trumpet,adjective
+mermaid,adjective
+balloon,adjective
+bell,adjective
+bell bottom,adjective
+bootcut,adjective
+pencil,adjective
+straight,adjective
+a-line,adjective
+tent,adjective
+baggy,adjective
+wide leg,adjective
+high low,adjective
+curved,adjective
+tight,adjective
+regular,adjective
+loose,adjective
+oversized,adjective
+empire waistline,adjective
+dropped waistline,adjective
+high waist,adjective
+normal waist,adjective
+low waist,adjective
+basque,adjective
+no waistline,adjective
+above-the-hip,adjective
+hip,adjective
+micro,adjective
+mini,adjective
+above-the-knee,adjective
+knee,adjective
+below the knee,adjective
+midi,adjective
+maxi,adjective
+floor,adjective
+sleeveless,adjective
+elbow-length,adjective
+three quarter,adjective
+wrist-length,adjective
+asymmetric,adjective
+chelsea,adjective
+banded,adjective
+mandarin,adjective
+peter pan,adjective
+stand-away,adjective
+jabot,adjective
+notched,adjective
+peak,adjective
+shawl,adjective
+napoleon,adjective
+collarless,adjective
+crew,adjective
+round,adjective
+v-neck,adjective
+surplice,adjective
+oval,adjective
+u-neck,adjective
+sweetheart,adjective
+queen anne,adjective
+boat,adjective
+scoop,adjective
+square,adjective
+plunging,adjective
+keyhole,adjective
+crossover,adjective
+choker,adjective
+high,adjective
+turtle,adjective
+cowl,adjective
+straight across,adjective
+illusion,adjective
+off-the-shoulder,adjective
+one shoulder,adjective
+set-in sleeve,adjective
+dropped-shoulder sleeve,adjective
+cap,adjective
+puff,adjective
+circular flounce,adjective
+poet,adjective
+"dolman, batwing",adjective
+bishop,adjective
+leg of mutton,adjective
+patch,adjective
+welt,adjective
+kangaroo,adjective
+seam,adjective
+slash,adjective
+flap,adjective
+single breasted,adjective
+double breasted,adjective
+lace up,adjective
+wrapping,adjective
+zip-up,adjective
+fly,adjective
+chained,adjective
+buckled,adjective
+toggled,adjective
+no opening,adjective
+plastic,adjective
+rubber,adjective
+metal,adjective
+feather,adjective
+gem,adjective
+bone,adjective
+ivory,adjective
+fur,adjective
+suede,adjective
+crocodile,adjective
+snakeskin,adjective
+wood,adjective
+no non-textile material,adjective
+burnout,adjective
+distressed,adjective
+washed,adjective
+embossed,adjective
+frayed,adjective
+printed,adjective
+ruched,adjective
+quilted,adjective
+pleat,adjective
+gathering,adjective
+smocking,adjective
+tiered,adjective
+cutout,adjective
+slit,adjective
+perforated,adjective
+lining,adjective
+no special manufacturing technique,adjective
+plain,adjective
+abstract,adjective
+cartoon,adjective
+"letters, numbers",adjective
+camouflage,adjective
+check,adjective
+dot,adjective
+fair isle,adjective
+floral,adjective
+geometric,adjective
+paisley,adjective
+stripe,adjective
+houndstooth,adjective
+herringbone,adjective
+chevron,adjective
+argyle,adjective
+leopard,adjective
+cheetah,adjective
+peacock,adjective
+zebra,adjective
+giraffe,adjective
+toile de jouy,adjective
+plant,adjective

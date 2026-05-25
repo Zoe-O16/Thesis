@@ -1,930 +1,1357 @@
-term,category,n_words
-minimal,adjective,1
-dramatic,adjective,1
-vintage,adjective,1
-elegant,adjective,1
-layer,adjective,1
-fluid,adjective,1
-soft,adjective,1
-casual,adjective,1
-asymmetrical,adjective,1
-sculptural,adjective,1
-slouchy,adjective,1
-luxurious,adjective,1
-subtle,adjective,1
-feminine,adjective,1
-pleat,adjective,1
-ornate,adjective,1
-deconstruct,adjective,1
-sharp,adjective,1
-graphic,adjective,1
-fit,adjective,1
-lean,adjective,1
-embellish,adjective,1
-voluminous,adjective,1
-romantic,adjective,1
-texture,adjective,1
-sleek,adjective,1
-oversize,adjective,1
-modern,adjective,1
-clean,adjective,1
-sporty,adjective,1
-masculine,adjective,1
-opulent,adjective,1
-polish,adjective,1
-tailor,adjective,1
-structure,adjective,1
-sheer,adjective,1
-drape,adjective,1
-crop,adjective,1
-monochrome,adjective,1
-knit,noun,1
-velvet,noun,1
-cuff,noun,1
-shirt,noun,1
-scarf,noun,1
-leather,noun,1
-jacket,noun,1
-trouser,noun,1
-gown,noun,1
-runway,noun,1
-suit,noun,1
-cotton,noun,1
-accessory,noun,1
-cardigan,noun,1
-button,noun,1
-sweater,noun,1
-dress,noun,1
-boot,noun,1
-garment,noun,1
-line,noun,1
-collection,noun,1
-bead,noun,1
-blouse,noun,1
-lapel,noun,1
-top,noun,1
-sequin,noun,1
-hem,noun,1
-zipper,noun,1
-ruffle,noun,1
-waist,noun,1
-cape,noun,1
-silhouette,noun,1
-fabric,noun,1
-sandal,noun,1
-zip,noun,1
-lace,noun,1
-anorak,noun,1
-heel,noun,1
-skirt,noun,1
-pant,noun,1
-coat,noun,1
-fringe,noun,1
-tunic,noun,1
-seam,noun,1
-bag,noun,1
-textile,noun,1
-organza,noun,1
-couture,noun,1
-trim,noun,1
-chiffon,noun,1
-crepe,noun,1
-parka,noun,1
-vest,noun,1
-print,noun,1
-embroidery,noun,1
-cashmere,noun,1
-brocade,noun,1
-shoe,noun,1
-satin,noun,1
-silk,noun,1
-pattern,noun,1
-wool,noun,1
-tweed,noun,1
-collar,noun,1
-bodice,noun,1
-belt,noun,1
-pocket,noun,1
-look,noun,1
-glove,noun,1
-jersey,noun,1
-panel,noun,1
-denim,noun,1
-sleeve,noun,1
-tulle,noun,1
-hat,noun,1
-suno,brand,1
-leonard,brand,1
-phi,brand,1
-lacoste,brand,1
-veronique branquinho,brand,2
-laurl,brand,1
-surface to air,brand,3
-catherine malandrino,brand,2
-dak by gile deacon,brand,4
-edun,brand,1
-paco rabanne,brand,2
-christian dior,brand,2
-by johnny,brand,2
-kris van assche,brand,3
-isabel marant,brand,2
-hutson,brand,1
-michelle lowe_holder,brand,2
-ossie clark,brand,2
-kelly wearstler,brand,2
-juicy couture,brand,2
-"victoria , victoria beckham",brand,3
-richard edwards,brand,2
-anne sofie madsen,brand,3
-narciso rodriguez,brand,2
-veronica beard,brand,2
-louis vuitton,brand,2
-rachel zoe,brand,2
-tod 's,brand,1
-cotoo,brand,1
-ellen tracy,brand,2
-giorgio armani,brand,2
-nonoo,brand,1
-gut 's dynamite cabaret,brand,3
-blaak,brand,1
-revillon,brand,1
-tim van steenbergen,brand,3
-bottega veneta,brand,2
-fausto puglisi,brand,2
-hamish morrow,brand,2
-msgm,brand,1
-dresscamp,brand,1
-an american view,brand,3
-hood by air,brand,3
-iceberg,brand,1
-by malene birger,brand,3
-diana orve,brand,2
-peter jensen,brand,2
-whyre,brand,1
-y & kei,brand,3
-junya watanabe,brand,2
-michael sontag,brand,2
-jeffrey chow,brand,2
-mark mcnairy new amsterdam,brand,4
-mcq alexander mcqueen,brand,3
-biba,brand,1
-helmut lang,brand,2
-vena cava,brand,2
-zuhair murad,brand,2
-blk dnm,brand,2
-aquascutum,brand,1
-mandy coon,brand,2
-mint design,brand,2
-mulberry,brand,1
-cheap monday,brand,2
-yohji yamamoto,brand,2
-atsushi nakashima,brand,2
-misha nonoo,brand,2
-6267,brand,1
-tommy hilfiger,brand,2
-viktor & rolf,brand,3
-isaac mizrahi,brand,2
-krizia,brand,1
-central saint martin,brand,3
-pam & amp ; gela,brand,3
-duckie brown,brand,2
-marco de vincenzo,brand,3
-ann demeulemeester,brand,2
-iris van herpen,brand,3
-rodebjer,brand,1
-bally,brand,1
-a.p.c .,brand,1
-charles nolan,brand,2
-gryphon,brand,1
-g - star,brand,1
-simone rocha,brand,2
-betsey johnson,brand,2
-chado ralph rucci,brand,3
-michael van der ham,brand,4
-francesc by frank tell,brand,4
-michael kor,brand,2
-jen kao,brand,2
-carin wester,brand,2
-mm6 maison martin margiela,brand,4
-anrealage,brand,1
-alice auaa,brand,2
-the lake & star,brand,4
-thimister,brand,1
-gareth pugh,brand,2
-sacai,brand,1
-marissa webb,brand,2
-bill blass,brand,2
-opening ceremony,brand,2
-preen line,brand,2
-schumacher,brand,1
-haider ackermann,brand,2
-kilian kerner,brand,2
-mark eisen,brand,2
-nitz schneider,brand,2
-generra,brand,1
-alexandre matthieu,brand,2
-electric feather,brand,2
-sinha - stanic,brand,1
-ruffo research,brand,2
-rafael lopez,brand,2
-jean - charles de castelbajac,brand,3
-saloni,brand,1
-and re walker,brand,3
-nicole miller,brand,2
-emanuel ungaro,brand,2
-bcbg max azria,brand,3
-michon schur,brand,2
-josh goot,brand,2
-jens laugesen,brand,2
-matt nye,brand,2
-tadashi shoji,brand,2
-designer remix,brand,2
-tiit,brand,1
-talbot runhof,brand,2
-zimmermann,brand,1
-jay ahr,brand,2
-banana republic,brand,2
-genny,brand,1
-gregory parkinson,brand,2
-whiz limit,brand,2
-novis,brand,1
-lagerfeld gallery,brand,2
-romance be bear,brand,3
-callaghan,brand,1
-sb47,brand,1
-elspeth gibson,brand,2
-apiece apart,brand,2
-luisa beccaria,brand,2
-trias,brand,1
-katy rodriguez,brand,2
-altuzarra,brand,1
-roksanda,brand,1
-j brand,brand,2
-victor alfaro,brand,2
-arak,brand,1
-karl lagerfeld,brand,2
-shiroma,brand,1
-barbara casasola,brand,2
-mark fast,brand,2
-alexis mabille,brand,2
-bella freud,brand,2
-yoshio kubo,brand,2
-icarius de meneze,brand,3
-antonio berardi,brand,2
-ato,brand,1
-sass & bide,brand,3
-everlaste sprout,brand,2
-peter soronen,brand,2
-the dress & co.,brand,4
-vika gazinskaya,brand,2
-véronique leroy,brand,2
-miss wu,brand,2
-bensoni,brand,1
-meadham kirchhoff,brand,2
-jason wu,brand,2
-sea,brand,1
-versus versace,brand,2
-matthew williamson,brand,2
-william rast,brand,2
-zero + maria cornejo,brand,4
-nicholas k,brand,2
-talbot,brand,1
-abaeté,brand,1
-mercibeaucoup,brand,1
-costello tagliapietra,brand,2
-dion lee,brand,2
-céline,brand,1
-edeline lee,brand,2
-martine sitbon,brand,2
-elizabeth and james,brand,3
-a.f . vandevorst,brand,2
-diesel,brand,1
-a.w.a.k.e .,brand,1
-la perla,brand,2
-katie ermilio,brand,2
-costume national,brand,2
-menichetti,brand,1
-escada,brand,1
-honor,brand,1
-rhié,brand,1
-azzaro,brand,1
-jonathan saunders,brand,2
-cynthia steffe,brand,2
-victoria beckham,brand,2
-hermès,brand,1
-reye,brand,1
-moschino,brand,1
-roland mouret,brand,2
-emilio pucci,brand,2
-aje,brand,1
-j.crew,brand,1
-the local firm,brand,3
-prabal gurung,brand,2
-hugo boss,brand,2
-warren noronha,brand,2
-olympia le - tan,brand,2
-christian dada,brand,2
-derek lam,brand,2
-ter et bantine,brand,3
-alabama chanin,brand,2
-issey miyake,brand,2
-norma kamali,brand,2
-alexandre plokhov,brand,2
-monique lhuillier,brand,2
-joy cioci,brand,2
-carolina herrera,brand,2
-ne - net,brand,1
-fur fur,brand,2
-hervé léger by max azria,brand,5
-eleykishimoto ellesse,brand,2
-holly fulton,brand,2
-naum,brand,1
-nathan jenden,brand,2
-diesel black gold,brand,3
-sachin + babi,brand,3
-betty jackson,brand,2
-phenomenon,brand,1
-hernàndez cornet,brand,2
-creative taiwan,brand,2
-calvin klein collection,brand,3
-libertine,brand,1
-rachel antonoff,brand,2
-verri,brand,1
-motonari ono,brand,2
-dagmar,brand,1
-malandrino,brand,1
-dolce & gabbana,brand,3
-r ii s,brand,3
-sophia kokosalaki,brand,2
-charlotte ronson,brand,2
-joseph,brand,1
-john galliano,brand,2
-dry van noten,brand,3
-belstaff,brand,1
-stephen burrow,brand,2
-public school,brand,2
-josie natori,brand,2
-jenny packham,brand,2
-custo barcelona,brand,2
-nomia,brand,1
-phoebe english,brand,2
-st . john,brand,2
-rock & republic,brand,3
-jayson brunsdon,brand,2
-back,brand,1
-yang li,brand,2
-tsumori chisato,brand,2
-lawrence steele,brand,2
-assembly,brand,1
-hakaan,brand,1
-zadig & voltaire,brand,3
-j.w . anderson,brand,2
-john rocha,brand,2
-christian cota,brand,2
-brandon sun,brand,2
-daryl k,brand,2
-luca luca,brand,2
-topshop unique,brand,2
-chanel,brand,1
-jill stuart,brand,2
-maiyet,brand,1
-tracy reese,brand,2
-mara hoffman,brand,2
-farah angsana,brand,2
-stephan pelger,brand,2
-hugo,brand,1
-hanii y,brand,2
-juan carlos obando,brand,3
-jasmin shokrian draft no . 17,brand,5
-fashion fringe,brand,2
-johan ku,brand,2
-brian reye,brand,2
-pollini,brand,1
-gucci,brand,1
-kenneth cole new york,brand,4
-bruno pieter,brand,2
-lena hoschek,brand,2
-giulietta,brand,1
-balenciaga,brand,1
-jnby,brand,1
-myrza de muynck,brand,3
-no . 21,brand,2
-shipley & halmo,brand,3
-modernist,brand,1
-alexandre vauthier,brand,2
-naoki takizawa,brand,2
-chaiken,brand,1
-frostfrench,brand,1
-marchesa,brand,1
-crippen,brand,1
-karen walker,brand,2
-karla spetic,brand,2
-j. mendel,brand,2
-kevork kiledjian,brand,2
-tome,brand,1
-facetasm,brand,1
-kenzo,brand,1
-jun okamoto,brand,2
-eudon choi,brand,2
-paul & joe,brand,3
-mary katrantzou,brand,2
-rogan,brand,1
-lanvin,brand,1
-alessandra rich,brand,2
-aquilano.rimondi,brand,1
-sonia rykiel,brand,2
-yigal azrouôl,brand,2
-jeremy lae,brand,2
-jovovich - hawk,brand,1
-gile,brand,1
-day birger et mikkelsen,brand,4
-calla,brand,1
-kaufmanfranco,brand,1
-rebecca danenberg,brand,2
-kaelen,brand,1
-maria grachvogel,brand,2
-sweetface,brand,1
-syke,brand,1
-pierrot,brand,1
-holmes & yang,brand,3
-miu miu,brand,2
-paris 68,brand,2
-christopher raeburn,brand,2
-co,brand,1
-cynthia rowley,brand,2
-camilla and marc,brand,3
-michael lo sordo,brand,3
-heohwan simulation,brand,2
-stella mccartney,brand,2
-maison martin margiela,brand,3
-anna sui,brand,2
-jenni kayne,brand,2
-julian louie,brand,2
-willow,brand,1
-noir,brand,1
-rebecca minkoff,brand,2
-etw.vonneguet,brand,1
-kamishima chinami,brand,2
-katie gallagher,brand,2
-zac posen,brand,2
-marni,brand,1
-rad by rad hourani,brand,4
-graeme armour,brand,2
-proenza schouler,brand,2
-vanish elephant,brand,2
-gap,brand,1
-robert rodriguez,brand,2
-band of outsider,brand,3
-tse,brand,1
-kim jones,brand,2
-dak,brand,1
-koi suwannagate,brand,2
-arkadius,brand,1
-a degree fahrenheit,brand,3
-zac zac posen,brand,3
-fashion east,brand,2
-maxime simoôns,brand,2
-roberto cavalli,brand,2
-maison kitsun _,brand,2
-marques'almeida,brand,1
-vera wang lavender label,brand,4
-sister by sible,brand,3
-adam selman,brand,2
-oscar de la renta,brand,4
-paul smith,brand,2
-christopher esber,brand,2
-sebastian pon,brand,2
-heatherette,brand,1
-hunkydory,brand,1
-jasmine di milo,brand,3
-rick owens,brand,2
-katie eary,brand,2
-krystof strozyna,brand,2
-lala berlin,brand,2
-piazza sempione,brand,2
-rodarte,brand,1
-vladimir karaleev,brand,2
-matthew ames,brand,2
-behnaz sarafpour,brand,2
-doo.ri,brand,1
-david koma,brand,2
-h&m design award,brand,3
-g.v.g.v .,brand,1
-parson the new school for design,brand,6
-jean colonna,brand,2
-vera wang,brand,2
-bless'ed be the meek,brand,4
-jasmin shokrian,brand,2
-salvatore ferragamo,brand,2
-daughter,brand,1
-miss sixty,brand,2
-badgley mischka,brand,2
-rue du mail,brand,3
-valentino,brand,1
-daniel vosovic,brand,2
-christian lacroix,brand,2
-barbara bui,brand,2
-byblos,brand,1
-derek lam 10 crosby,brand,4
-gibo,brand,1
-giambattista valli,brand,2
-christopher kane,brand,2
-y 's,brand,1
-gabrielle greiss,brand,2
-j.lindeberg,brand,1
-john bartlett,brand,2
-elie saab,brand,2
-eley kishimoto,brand,2
-fay,brand,1
-jonathan simkhai,brand,2
-reed krakoff,brand,2
-bebe,brand,1
-perry ellis,brand,2
-uniqueness,brand,1
-osklen,brand,1
-dean quinn,brand,2
-olivi theysken,brand,2
-tibi,brand,1
-martin grant,brand,2
-mm6 maison martin margiela x opening ceremony,brand,7
-reem acra,brand,2
-christophe lemaire,brand,2
-alex perry,brand,2
-emilia wickstead,brand,2
-manish arora,brand,2
-ungaro couture,brand,2
-io ipse idem,brand,3
-conny groenewegen,brand,2
-emilio de la morena,brand,4
-jasper conran,brand,2
-katayone adeli,brand,2
-suboo,brand,1
-luella,brand,1
-burberry prorsum,brand,2
-alice roi,brand,2
-creature of comfort,brand,3
-a détacher,brand,2
-matohu,brand,1
-emma cook,brand,2
-dennis basso,brand,2
-ann - sofie back atelje,brand,3
-rebecca taylor,brand,2
-anthony vaccarello,brand,2
-philosophy,brand,1
-susan lazar,brand,2
-requiem,brand,1
-maxmara atelier,brand,2
-vivienne tam,brand,2
-strenesse,brand,1
-undercover,brand,1
-tia cibani,brand,2
-cg,brand,1
-kanye west,brand,2
-bruce,brand,1
-araisara,brand,1
-red valentino,brand,2
-lp.bg,brand,1
-threeasfour,brand,1
-comme des garçon,brand,3
-altewaisaome,brand,1
-richard chai love,brand,3
-who be on next,brand,4
-cacharel,brand,1
-m.r.s .,brand,1
-frank tell,brand,2
-milly,brand,1
-rocha,brand,1
-tamara mellon,brand,2
-max azria,brand,2
-kimberly ovitz,brand,2
-m.patmo,brand,1
-marios schwab,brand,2
-phoenix keating,brand,2
-toga,brand,1
-les copain,brand,2
-saint laurent,brand,2
-ostwald helgason,brand,2
-albino,brand,1
-carlos miele,brand,2
-danielle scutt,brand,2
-emma mulholland,brand,2
-nina donis,brand,2
-y-3,brand,1
-fendi,brand,1
-lutz & patmos,brand,3
-peter som,brand,2
-francesco scognamiglio,brand,2
-thakoon addition,brand,2
-10 crosby derek lam,brand,4
-house of holland,brand,3
-maki oh,brand,2
-polo ralph lauren,brand,3
-temperley london,brand,2
-trussardi,brand,1
-diane von furstenberg,brand,3
-richard tyler,brand,2
-chadwick bell,brand,2
-lisa perry,brand,2
-lindsey thornburg,brand,2
-neil barrett,brand,2
-gardem,brand,1
-thomas tait,brand,2
-icb,brand,1
-akris,brand,1
-christian siriano,brand,2
-carven,brand,1
-jean paul gaultier,brand,3
-preen by thornton bregazzi,brand,4
-peter pilotto,brand,2
-thakoon,brand,1
-louise gray,brand,2
-vivienne westwood red label,brand,4
-clements ribeiro,brand,2
-cerre,brand,1
-cut25 by yigal azrouôl,brand,4
-theysken ' theory,brand,2
-rena lange,brand,2
-mugler,brand,1
-united bamboo,brand,2
-maticevski,brand,1
-issa,brand,1
-roksanda ilincic,brand,2
-agnona,brand,1
-tess giberson,brand,2
-vpl,brand,1
-wood wood,brand,2
-gary graham,brand,2
-imitation of christ,brand,3
-tory burch,brand,2
-ariunaa suri,brand,2
-somarta,brand,1
-malo,brand,1
-jeremy scott,brand,2
-sue stemp,brand,2
-nanette lepore,brand,2
-sophomore,brand,1
-dirk bikkemberg,brand,2
-sabyasachi,brand,1
-julien david,brand,2
-dsquared2,brand,1
-armand basi one,brand,3
-organic by john patrick,brand,4
-yasutoshi ezumi,brand,2
-chalayan,brand,1
-hunter original,brand,2
-samuji,brand,1
-adam lippe,brand,2
-whistle,brand,1
-balmain,brand,1
-rag & bone,brand,3
-hien le,brand,2
-versus,brand,1
-naeem khan,brand,2
-pedro lourenço,brand,2
-tuleh,brand,1
-tomas maier,brand,2
-lela rise,brand,2
-nicolas andreas taralis,brand,3
-wendy nichol,brand,2
-dimitri,brand,1
-pamela dennis,brand,2
-billy reid,brand,2
-t by alexander wang,brand,4
-marchesa voyage,brand,2
-porsche design,brand,2
-port 1961,brand,2
-han ahn soon,brand,3
-erin wasson x rvca,brand,4
-capucci,brand,1
-piece d'anarchive,brand,2
-steven alan,brand,2
-derercuny,brand,1
-joe casely - hayford,brand,2
-julien macdonald,brand,2
-nyc 2000,brand,2
-sonia by sonia rykiel,brand,4
-3.1 phillip lim,brand,3
-philipp plein,brand,2
-pierre balmain,brand,2
-moncler grenoble,brand,2
-rodnik,brand,1
-stärk,brand,1
-isa arfen,brand,2
-todd lynn,brand,2
-miguel adrover,brand,2
-blumarine,brand,1
-sally lapointe,brand,2
-tucker,brand,1
-cher michel klein,brand,3
-victoria by victoria beckham,brand,4
-chris benz,brand,2
-whit,brand,1
-tommy,brand,1
-beautiful people,brand,2
-jil sander,brand,2
-delpozo,brand,1
-twenty8twelve,brand,1
-tristan webber,brand,2
-mary ping,brand,2
-alessandro dell'acqua,brand,2
-collette dinnigan,brand,2
-alexandre herchcovitch,brand,2
-bibhu mohapatra,brand,2
-max mara,brand,2
-fleamadonna,brand,1
-istvan francer,brand,2
-givenchy,brand,1
-erdem,brand,1
-just cavalli,brand,2
-wink,brand,1
-alberta ferretti,brand,2
-flannel,brand,1
-alexander mcqueen,brand,2
-alexander wang,brand,2
-elise øverland,brand,2
-the eld statesman,brand,3
-toni maticevski,brand,2
-chloé sevigny for o.c .,brand,4
-perret schaad,brand,2
-shelley fox,brand,2
-l.a.m.b .,brand,1
-trademark,brand,1
-the row,brand,2
-coach,brand,1
-augustin teboul,brand,2
-dressedundresse,brand,1
-missoni,brand,1
-trager delaney,brand,2
-cédric charlier,brand,2
-brioni,brand,1
-han,brand,1
-ralph rucci,brand,2
-tom ford,brand,2
-ganryu,brand,1
-anne klein,brand,2
-jc de castelbajac,brand,3
-emporio armani,brand,2
-house of jazz,brand,3
-rachel roy,brand,2
-james coviello,brand,2
-ace & jig,brand,3
-thom browne,brand,2
-berardi,brand,1
-kenneth cole collection,brand,3
-adida by stella mccartney,brand,4
-a.l.c .,brand,1
-veronica b. vallenes,brand,3
-douglas hannant,brand,2
-rosie assoulin,brand,2
-louise goldin,brand,2
-ohne titel,brand,2
-tao,brand,1
-andrew gn,brand,2
-carmen marc valvo,brand,3
-tribune standard,brand,2
-dax gabler,brand,2
-marjan pejoski,brand,2
-marc jacobs,brand,2
-sari gueron,brand,2
-kai kùhne,brand,2
-kate spade new york,brand,4
-sportmax,brand,1
-vivienne westwood,brand,2
-alice mccall,brand,2
-damir doma,brand,2
-a.w.a.k.e . by natalia alaverdian,brand,4
-moncler gamme rouge,brand,3
-jacquemus,brand,1
-skaist - taylor,brand,1
-felder felder,brand,2
-antonio marras,brand,2
-zambesi,brand,1
-anna molinari,brand,2
-maurizio pecoraro,brand,2
-theory,brand,1
-tyler,brand,1
-vfile,brand,1
-visvim,brand,1
-bodkin,brand,1
-anne valérie hash,brand,3
-project alabama,brand,2
-ivan grundahl,brand,2
-joie,brand,1
-dkny,brand,1
-gianfranco ferré,brand,2
-pamella roland,brand,2
-orla kiely,brand,2
-stella jean,brand,2
-yeohlee,brand,1
-l'wren scott,brand,2
-eric bergère,brand,2
-etro,brand,1
-ellery,brand,1
-hannah marshall,brand,2
-kind aggugini,brand,2
-rachel comey,brand,2
-jil sander navy,brand,3
-markus lupfer,brand,2
-cushnie et ochs,brand,3
-nicole farhi,brand,2
-loewe,brand,1
-issever bahri,brand,2
-wes gordon,brand,2
-as four,brand,2
-we be handsome,brand,3
-1 piu 1 uguale 3,brand,5
-nozomi ishiguro tambourine,brand,3
-c - neeon,brand,1
-haryono setiadi,brand,2
-bouchra jarrar,brand,2
-ashish,brand,1
-limi feu,brand,2
-barbara tfank,brand,2
-krizia top,brand,2
-gant by michael bastian,brand,4
-jaeger london,brand,2
-robert cary - williams,brand,2
-guy laroche,brand,2
-sally penn,brand,2
-randolph duke,brand,2
-tanya taylor,brand,2
-buddhist punk,brand,2
-duro olowu,brand,2
-donna karan,brand,2
-aganovich,brand,1
-ruffian,brand,1
-wren,brand,1
-chloé,brand,1
-rad hourani,brand,2
-benjamin cho,brand,2
-felipe oliveira baptista,brand,3
-wc,brand,1
-alistair carr,brand,2
-m missoni,brand,2
-wayne,brand,1
-charles anastase,brand,2
-ralph lauren,brand,2
-clover canyon,brand,2
-moschino cheap and chic,brand,4
-alice + olivia,brand,3
-bernhard willhelm,brand,2
-london roundup,brand,2
-dietrich emter,brand,2
-james long,brand,2
-maison rabih kayrouz,brand,3
-tim hamilton,brand,2
-brood,brand,1
-mother of pearl,brand,3
-trovata,brand,1
-graeme black,brand,2
-vanessa bruno,brand,2
-patrik ervell,brand,2
-paule ka,brand,2
-commuun,brand,1
-roopa pemmaraju,brand,2
-tocca,brand,1
-cerruti,brand,1
-tze goh,brand,2
-ktz,brand,1
-deceive,brand,1
-halston,brand,1
-sophie theallet,brand,2
-nina ricci,brand,2
-riccardo tisci,brand,2
-russell sage,brand,2
-davidelfin,brand,1
-jean - pierre braganza,brand,2
-lizzy disney,brand,2
-nahm,brand,1
-richard nicoll,brand,2
-boudicca,brand,1
-marc by marc jacobs,brand,4
-prada,brand,1
-creature of the wind,brand,4
-devi kroell,brand,2
-vionnet,brand,1
-pringle of scotland,brand,3
-ppq,brand,1
-acne studio,brand,2
-see by chloé,brand,3
-adeam,brand,1
-et momonakia,brand,2
-lyn devon,brand,2
-gabriele colangelo,brand,2
-raquel allegra,brand,2
-sharon wauchob,brand,2
-allegra hick,brand,2
-elie tahari,brand,2
-versace,brand,1
-tiger of sweden,brand,3
-trina turk,brand,2
-habitual,brand,1
-michael angel,brand,2
-basso & brooke,brand,3
-christian wijnant,brand,2
-erin fetherston,brand,2
-valentin yudashkin,brand,2
-timo weiland,brand,2
-osman,brand,1
-wunderkind,brand,1
-anja gockel,brand,2
+term,category,subcategory,n_words
+shirt,garment,upperbody,1
+blouse,garment,upperbody,1
+top,garment,upperbody,1
+t - shirt,garment,upperbody,3
+sweatshirt,garment,upperbody,1
+sweater,garment,upperbody,1
+cardigan,garment,upperbody,1
+jacket,garment,upperbody,1
+vest,garment,upperbody,1
+pant,garment,lowerbody,1
+short,garment,lowerbody,1
+skirt,garment,lowerbody,1
+coat,garment,wholebody,1
+dress,garment,wholebody,1
+jumpsuit,garment,wholebody,1
+cape,garment,wholebody,1
+glass,accessory,head,1
+hat,accessory,head,1
+headband,accessory,head,1
+head cover,accessory,head,2
+hair accessory,accessory,head,2
+tie,accessory,none,1
+glove,accessory,arms_and_hands,1
+watch,accessory,arms_and_hands,1
+belt,accessory,none,1
+leg warmer,accessory,legs_and_feet,2
+tight,accessory,legs_and_feet,1
+stocking,accessory,legs_and_feet,1
+sock,accessory,legs_and_feet,1
+shoe,accessory,legs_and_feet,1
+bag,accessory,none,1
+wallet,accessory,none,1
+scarf,accessory,none,1
+umbrella,accessory,none,1
+hood,garment,garment_part,1
+collar,garment,garment_part,1
+lapel,garment,garment_part,1
+epaulette,garment,garment_part,1
+sleeve,garment,garment_part,1
+pocket,garment,garment_part,1
+neckline,garment,garment_part,1
+buckle,garment,closure,1
+zipper,garment,closure,1
+applique,style,embellishment,1
+bead,style,embellishment,1
+bow,style,embellishment,1
+flower,style,embellishment,1
+fringe,style,embellishment,1
+ribbon,style,embellishment,1
+rivet,style,embellishment,1
+ruffle,style,embellishment,1
+sequin,style,embellishment,1
+tassel,style,embellishment,1
+classic,garment,garment_type,1
+polo,garment,garment_type,1
+undershirt,garment,garment_type,1
+henley,garment,garment_type,1
+ringer,garment,garment_type,1
+raglan,garment,garment_type,1
+rugby,garment,garment_type,1
+sailor,garment,garment_type,1
+crop,garment,garment_type,1
+halter,garment,garment_type,1
+camisole,garment,garment_type,1
+tank,garment,garment_type,1
+peasant,garment,garment_type,1
+tube,garment,garment_type,1
+tunic,garment,garment_type,1
+smock,garment,garment_type,1
+hoodie,garment,garment_type,1
+blazer,garment,garment_type,1
+pea,garment,garment_type,1
+puffer,garment,garment_type,1
+biker,garment,garment_type,1
+trucker,garment,garment_type,1
+bomber,garment,garment_type,1
+anorak,garment,garment_type,1
+safari,garment,garment_type,1
+mao,garment,garment_type,1
+nehru,garment,garment_type,1
+norfolk,garment,garment_type,1
+classic military,garment,garment_type,2
+track,garment,garment_type,1
+windbreaker,garment,garment_type,1
+chanel,garment,garment_type,1
+bolero,garment,garment_type,1
+tuxedo,garment,garment_type,1
+varsity,garment,garment_type,1
+jean,garment,garment_type,1
+sweatpant,garment,garment_type,1
+legging,garment,garment_type,1
+hip - hugger,garment,garment_type,3
+cargo,garment,garment_type,1
+culotte,garment,garment_type,1
+capri,garment,garment_type,1
+harem,garment,garment_type,1
+jodhpur,garment,garment_type,1
+peg,garment,garment_type,1
+camo,garment,garment_type,1
+booty,garment,garment_type,1
+bermuda,garment,garment_type,1
+trunk,garment,garment_type,1
+boardshort,garment,garment_type,1
+skort,garment,garment_type,1
+roll - up,garment,garment_type,3
+tie - up,garment,garment_type,3
+lounge,garment,garment_type,1
+bloomer,garment,garment_type,1
+tutu,garment,garment_type,1
+kilt,garment,garment_type,1
+wrap,garment,garment_type,1
+skater,garment,garment_type,1
+hobble,garment,garment_type,1
+sheath,garment,garment_type,1
+ball gown,garment,garment_type,2
+gypsy,garment,garment_type,1
+rah - rah,garment,garment_type,3
+prairie,garment,garment_type,1
+flamenco,garment,garment_type,1
+accordion,garment,garment_type,1
+sarong,garment,garment_type,1
+tulip,garment,garment_type,1
+dirndl,garment,garment_type,1
+godet,garment,garment_type,1
+blanket,garment,garment_type,1
+parka,garment,garment_type,1
+trench,garment,garment_type,1
+shearle,garment,garment_type,1
+teddy bear,garment,garment_type,2
+duster,garment,garment_type,1
+raincoat,garment,garment_type,1
+kimono,garment,garment_type,1
+robe,garment,garment_type,1
+duffle,garment,garment_type,1
+military,garment,garment_type,1
+swing,garment,garment_type,1
+chemise,garment,garment_type,1
+slip,garment,garment_type,1
+cheongsam,garment,garment_type,1
+jumper,garment,garment_type,1
+shift,garment,garment_type,1
+sundress,garment,garment_type,1
+kaftan,garment,garment_type,1
+bodycon,garment,garment_type,1
+nightgown,garment,garment_type,1
+gown,garment,garment_type,1
+tea,garment,garment_type,1
+blouson,garment,garment_type,1
+asymmetrical,style,silhouette,1
+symmetrical,style,silhouette,1
+peplum,style,silhouette,1
+circle,style,silhouette,1
+flare,style,silhouette,1
+fit and flare,style,silhouette,3
+trumpet,style,silhouette,1
+mermaid,style,silhouette,1
+balloon,style,silhouette,1
+bell,style,silhouette,1
+bell bottom,style,silhouette,2
+bootcut,style,silhouette,1
+pencil,style,silhouette,1
+straight,style,silhouette,1
+a - line,style,silhouette,3
+tent,style,silhouette,1
+baggy,style,silhouette,1
+wide leg,style,silhouette,2
+high low,style,silhouette,2
+curve,style,silhouette,1
+regular,style,silhouette,1
+loose,style,silhouette,1
+oversize,style,silhouette,1
+empire waistline,garment,waistline,2
+drop waistline,garment,waistline,2
+high waist,garment,waistline,2
+normal waist,garment,waistline,2
+low waist,garment,waistline,2
+basque,garment,waistline,1
+no waistline,garment,waistline,2
+above - the - hip,style,length,5
+hip,style,length,1
+micro,style,length,1
+mini,style,length,1
+above - the - knee,style,length,5
+knee,style,length,1
+below the knee,style,length,3
+midi,style,length,1
+maxi,style,length,1
+floor,style,length,1
+sleeveless,style,length,1
+elbow - length,style,length,3
+three quarter,style,length,2
+wrist - length,style,length,3
+asymmetric,garment,garment_type,1
+chelsea,garment,garment_type,1
+band,garment,garment_type,1
+mandarin,garment,garment_type,1
+peter pan,garment,garment_type,2
+stand - away,garment,garment_type,3
+jabot,garment,garment_type,1
+notch,garment,garment_type,1
+peak,garment,garment_type,1
+shawl,garment,garment_type,1
+napoleon,garment,garment_type,1
+collarless,garment,neckline_type,1
+crew,garment,neckline_type,1
+round,garment,neckline_type,1
+v - neck,garment,neckline_type,3
+surplice,garment,neckline_type,1
+oval,garment,neckline_type,1
+u - neck,garment,neckline_type,3
+sweetheart,garment,neckline_type,1
+queen anne,garment,neckline_type,2
+boat,garment,neckline_type,1
+scoop,garment,neckline_type,1
+square,garment,neckline_type,1
+plunge,garment,neckline_type,1
+keyhole,garment,neckline_type,1
+crossover,garment,neckline_type,1
+choker,garment,neckline_type,1
+high,garment,neckline_type,1
+turtle,garment,neckline_type,1
+cowl,garment,neckline_type,1
+straight across,garment,neckline_type,2
+illusion,garment,neckline_type,1
+off - the - shoulder,garment,neckline_type,5
+one shoulder,garment,neckline_type,2
+set - in sleeve,garment,garment_type,4
+drop - shoulder sleeve,garment,garment_type,4
+cap,garment,garment_type,1
+puff,garment,garment_type,1
+circular flounce,garment,garment_type,2
+poet,garment,garment_type,1
+bishop,garment,garment_type,1
+leg of mutton,garment,garment_type,3
+patch,garment,garment_type,1
+welt,garment,garment_type,1
+kangaroo,garment,garment_type,1
+seam,garment,garment_type,1
+slash,garment,garment_type,1
+flap,garment,garment_type,1
+single breast,garment,opening_type,2
+double breast,garment,opening_type,2
+lace up,garment,opening_type,2
+zip - up,garment,opening_type,3
+fly,garment,opening_type,1
+chain,garment,opening_type,1
+toggle,garment,opening_type,1
+plastic,material,non_textile_material_type,1
+rubber,material,non_textile_material_type,1
+metal,material,non_textile_material_type,1
+feather,material,non_textile_material_type,1
+gem,material,non_textile_material_type,1
+bone,material,non_textile_material_type,1
+ivory,material,non_textile_material_type,1
+fur,material,non_textile_material_type,1
+suede,material,non_textile_material_type,1
+crocodile,material,non_textile_material_type,1
+snakeskin,material,non_textile_material_type,1
+wood,material,non_textile_material_type,1
+burnout,style,textile_technique,1
+distressed,style,textile_technique,1
+wash,style,textile_technique,1
+emboss,style,textile_technique,1
+fray,style,textile_technique,1
+print,style,textile_technique,1
+ruche,style,textile_technique,1
+quilt,style,textile_technique,1
+pleat,style,textile_technique,1
+gather,style,textile_technique,1
+smocking,style,textile_technique,1
+tiere,style,textile_technique,1
+cutout,style,textile_technique,1
+slit,style,textile_technique,1
+perforate,style,textile_technique,1
+line,style,textile_technique,1
+plain,style,textile_pattern,1
+abstract,style,textile_pattern,1
+cartoon,style,textile_pattern,1
+camouflage,style,textile_pattern,1
+check,style,textile_pattern,1
+dot,style,textile_pattern,1
+fair isle,style,textile_pattern,2
+floral,style,textile_pattern,1
+geometric,style,textile_pattern,1
+paisley,style,textile_pattern,1
+stripe,style,textile_pattern,1
+houndstooth,style,textile_pattern,1
+herringbone,style,textile_pattern,1
+chevron,style,textile_pattern,1
+argyle,style,textile_pattern,1
+leopard,style,textile_pattern,1
+cheetah,style,textile_pattern,1
+peacock,style,textile_pattern,1
+zebra,style,textile_pattern,1
+giraffe,style,textile_pattern,1
+toile de jouy,style,textile_pattern,3
+plant,style,textile_pattern,1
+gold,color,none,1
+blue,color,none,1
+purple,color,none,1
+camel,color,none,1
+black,color,none,1
+cream,color,none,1
+nude,color,none,1
+grey,color,none,1
+navy,color,none,1
+khaki,color,none,1
+gray,color,none,1
+orange,color,none,1
+ecru,color,none,1
+silver,color,none,1
+brown,color,none,1
+pink,color,none,1
+green,color,none,1
+beige,color,none,1
+white,color,none,1
+red,color,none,1
+yellow,color,none,1
+burgundy,color,none,1
+bridal,occasion,none,1
+cocktail,occasion,none,1
+daywear,occasion,none,1
+resort,occasion,none,1
+evening,occasion,none,1
+lambswool,material,textile_fibre,1
+wool,material,textile_fibre,1
+sisal,material,textile_fibre,1
+qiviut,material,textile_fibre,1
+silk,material,textile_fibre,1
+chiengora,material,textile_fibre,1
+raffia,material,textile_fibre,1
+kapok,material,textile_fibre,1
+hemp,material,textile_fibre,1
+modacrylic,material,textile_fibre,1
+nomex,material,textile_fibre,1
+acetate,material,textile_fibre,1
+lycra,material,textile_fibre,1
+rayon,material,textile_fibre,1
+azlon,material,textile_fibre,1
+rabbit,material,textile_fibre,1
+mohair,material,textile_fibre,1
+byssus,material,textile_fibre,1
+nylon,material,textile_fibre,1
+spandex,material,textile_fibre,1
+cashmere,material,textile_fibre,1
+angora,material,textile_fibre,1
+flax,material,textile_fibre,1
+llama,material,textile_fibre,1
+eri,material,textile_fibre,1
+spider silk,material,textile_fibre,2
+yak,material,textile_fibre,1
+abaca,material,textile_fibre,1
+ramie,material,textile_fibre,1
+acrylic,material,textile_fibre,1
+elastane,material,textile_fibre,1
+kenaf,material,textile_fibre,1
+kevlar,material,textile_fibre,1
+alpaca,material,textile_fibre,1
+jute,material,textile_fibre,1
+vicuna,material,textile_fibre,1
+bamboo,material,textile_fibre,1
+cotton,material,textile_fibre,1
+coir,material,textile_fibre,1
+polyester,material,textile_fibre,1
+lyocell,material,textile_fibre,1
+modal,material,textile_fibre,1
+grosgrain,material,fabric_type,1
+calico,material,fabric_type,1
+charmeuse,material,fabric_type,1
+bengaline silk,material,fabric_type,2
+duck,material,fabric_type,1
+ghalamkar,material,fabric_type,1
+dungaree,material,fabric_type,1
+boucle,material,fabric_type,1
+plisse,material,fabric_type,1
+crochet,material,fabric_type,1
+poplin,material,fabric_type,1
+etamine,material,fabric_type,1
+shantung,material,fabric_type,1
+drugget,material,fabric_type,1
+cotton duck,material,fabric_type,2
+boil wool,material,fabric_type,2
+sateen,material,fabric_type,1
+serge,material,fabric_type,1
+jersey,material,fabric_type,1
+terrycloth,material,fabric_type,1
+sharkskin,material,fabric_type,1
+donegal tweed,material,fabric_type,2
+velour,material,fabric_type,1
+gazar,material,fabric_type,1
+dot swiss,material,fabric_type,2
+organdy,material,fabric_type,1
+jacquard knit,material,fabric_type,2
+canvas,material,fabric_type,1
+melton,material,fabric_type,1
+shoot silk,material,fabric_type,2
+crash,material,fabric_type,1
+zephyr,material,fabric_type,1
+tulle,material,fabric_type,1
+loden,material,fabric_type,1
+damask,material,fabric_type,1
+ripstop,material,fabric_type,1
+bombazine,material,fabric_type,1
+drill,material,fabric_type,1
+eolienne,material,fabric_type,1
+habutai,material,fabric_type,1
+organza,material,fabric_type,1
+aertex,material,fabric_type,1
+scrim,material,fabric_type,1
+mackinaw,material,fabric_type,1
+dupioni silk,material,fabric_type,2
+crepe de chine,material,fabric_type,3
+feel,material,fabric_type,1
+denim,material,fabric_type,1
+flannel,material,fabric_type,1
+gingham,material,fabric_type,1
+longcloth,material,fabric_type,1
+challi,material,fabric_type,1
+lace,material,fabric_type,1
+madras,material,fabric_type,1
+taffeta,material,fabric_type,1
+polar fleece,material,fabric_type,2
+seersucker,material,fabric_type,1
+satin,material,fabric_type,1
+fustian,material,fabric_type,1
+rep,material,fabric_type,1
+voile,material,fabric_type,1
+dobby,material,fabric_type,1
+muslin,material,fabric_type,1
+broderie anglaise,material,fabric_type,2
+buckram,material,fabric_type,1
+stockinette,material,fabric_type,1
+moquette,material,fabric_type,1
+double cloth,material,fabric_type,2
+batiste,material,fabric_type,1
+fishnet,material,fabric_type,1
+lampas,material,fabric_type,1
+ottoman,material,fabric_type,1
+pongee,material,fabric_type,1
+mesh,material,fabric_type,1
+faux leather,material,fabric_type,2
+brocade,material,fabric_type,1
+barkcloth,material,fabric_type,1
+gauze,material,fabric_type,1
+tartan,material,fabric_type,1
+peau de soie,material,fabric_type,3
+tapestry,material,fabric_type,1
+baize,material,fabric_type,1
+faux fur,material,fabric_type,2
+linsey - woolsey,material,fabric_type,3
+plush,material,fabric_type,1
+percale,material,fabric_type,1
+crepe,material,fabric_type,1
+twill,material,fabric_type,1
+oilskin,material,fabric_type,1
+cloque,material,fabric_type,1
+charvet,material,fabric_type,1
+tricot,material,fabric_type,1
+mousseline,material,fabric_type,1
+gabardine,material,fabric_type,1
+barathea,material,fabric_type,1
+moleskin,material,fabric_type,1
+brilliantine,material,fabric_type,1
+pique,material,fabric_type,1
+cretonne,material,fabric_type,1
+chintz,material,fabric_type,1
+lawn cloth,material,fabric_type,2
+chino,material,fabric_type,1
+lame,material,fabric_type,1
+whipcord,material,fabric_type,1
+worst wool,material,fabric_type,2
+harris tweed,material,fabric_type,2
+chenille,material,fabric_type,1
+bedford cord,material,fabric_type,2
+cambric,material,fabric_type,1
+batik,material,fabric_type,1
+grenadine,material,fabric_type,1
+knit,material,fabric_type,1
+dimity,material,fabric_type,1
+velvet,material,fabric_type,1
+georgette,material,fabric_type,1
+surah,material,fabric_type,1
+corduroy,material,fabric_type,1
+chiffon,material,fabric_type,1
+bobbinet,material,fabric_type,1
+flannelette,material,fabric_type,1
+tweed,material,fabric_type,1
+jamdani,material,fabric_type,1
+cheesecloth,material,fabric_type,1
+foulard,material,fabric_type,1
+neoprene,material,fabric_type,1
+sailcloth,material,fabric_type,1
+velveteen,material,fabric_type,1
+matelasse,material,fabric_type,1
+burlap,material,fabric_type,1
+moire,material,fabric_type,1
+net,material,fabric_type,1
+interlock jersey,material,fabric_type,2
+broadcloth,material,fabric_type,1
+camlet,material,fabric_type,1
+toile,material,fabric_type,1
+rib knit,material,fabric_type,2
+leather,material,non_textile_material_type,1
+shoulder,garment,garment_part,1
+bodice,garment,garment_part,1
+hem,garment,garment_part,1
+panel,garment,garment_part,1
+trim,garment,garment_part,1
+embroidery,style,embellishment,1
+zip,garment,closure,1
+button,garment,closure,1
+embellish,style,style_descriptor,1
+fluid,style,style_descriptor,1
+vintage,style,style_descriptor,1
+elegant,style,style_descriptor,1
+sleek,style,style_descriptor,1
+long,style,style_descriptor,1
+ornate,style,style_descriptor,1
+opulent,style,style_descriptor,1
+monochrome,style,style_descriptor,1
+graphic,style,style_descriptor,1
+romantic,style,style_descriptor,1
+fit,style,style_descriptor,1
+slouchy,style,style_descriptor,1
+structure,style,style_descriptor,1
+texture,style,style_descriptor,1
+deconstruct,style,style_descriptor,1
+tailor,style,style_descriptor,1
+sporty,style,style_descriptor,1
+sheer,style,style_descriptor,1
+slim,style,style_descriptor,1
+casual,style,style_descriptor,1
+minimal,style,style_descriptor,1
+polish,style,style_descriptor,1
+feminine,style,style_descriptor,1
+dramatic,style,style_descriptor,1
+masculine,style,style_descriptor,1
+sculptural,style,style_descriptor,1
+wide,style,style_descriptor,1
+voluminous,style,style_descriptor,1
+layer,style,style_descriptor,1
+luxurious,style,style_descriptor,1
+drape,style,style_descriptor,1
+randolph duke,brand,none,2
+generra,brand,none,1
+opening ceremony,brand,none,2
+giles,brand,none,1
+eric bergère,brand,none,2
+daks by giles deacon,brand,none,4
+stella jean,brand,none,2
+valentin yudashkin,brand,none,2
+alexander wang,brand,none,2
+kanye west,brand,none,2
+jasmin shokrian,brand,none,2
+the row,brand,none,2
+adam lippes,brand,none,2
+1 piu 1 uguale 3,brand,none,5
+tadashi shoji,brand,none,2
+house of holland,brand,none,3
+luella,brand,none,1
+karla spetic,brand,none,2
+krizia top,brand,none,2
+tod's,brand,none,1
+vionnet,brand,none,1
+koi suwannagate,brand,none,2
+byblos,brand,none,1
+marchesa,brand,none,1
+rafael lopez,brand,none,2
+coach,brand,none,1
+moncler grenoble,brand,none,2
+sabyasachi,brand,none,1
+giambattista valli,brand,none,2
+chado ralph rucci,brand,none,3
+alistair carr,brand,none,2
+j.lindeberg,brand,none,1
+l.a.m.b.,brand,none,1
+christophe lemaire,brand,none,2
+clements ribeiro,brand,none,2
+isaac mizrahi,brand,none,2
+josh goot,brand,none,2
+mint designs,brand,none,2
+derek lam 10 crosby,brand,none,4
+pierre balmain,brand,none,2
+pamela dennis,brand,none,2
+heohwan simulation,brand,none,2
+guy laroche,brand,none,2
+james coviello,brand,none,2
+alexandre vauthier,brand,none,2
+anne valérie hash,brand,none,3
+ruffian,brand,none,1
+sally penn,brand,none,2
+hakaan,brand,none,1
+mara hoffman,brand,none,2
+adeam,brand,none,1
+oscar de la renta,brand,none,4
+parsons the new school for design,brand,none,6
+doo.ri,brand,none,1
+lena hoschek,brand,none,2
+luisa beccaria,brand,none,2
+michael lo sordo,brand,none,3
+neil barrett,brand,none,2
+temperley london,brand,none,2
+uniqueness,brand,none,1
+modernist,brand,none,1
+alessandra rich,brand,none,2
+cheap monday,brand,none,2
+veronique branquinho,brand,none,2
+isa arfen,brand,none,2
+pringle of scotland,brand,none,3
+yeohlee,brand,none,1
+balmain,brand,none,1
+richard chai love,brand,none,3
+alice roi,brand,none,2
+adidas by stella mccartney,brand,none,4
+antonio berardi,brand,none,2
+rachel antonoff,brand,none,2
+cynthia rowley,brand,none,2
+etro,brand,none,1
+suboo,brand,none,1
+alice auaa,brand,none,2
+aganovich,brand,none,1
+hamish morrow,brand,none,2
+manish arora,brand,none,2
+vanishing elephant,brand,none,2
+band of outsiders,brand,none,3
+buddhist punk,brand,none,2
+nina donis,brand,none,2
+by malene birger,brand,none,3
+emilia wickstead,brand,none,2
+katie ermilio,brand,none,2
+eley kishimoto,brand,none,2
+reed krakoff,brand,none,2
+christian siriano,brand,none,2
+zadig & voltaire,brand,none,3
+blumarine,brand,none,1
+katie gallagher,brand,none,2
+allegra hicks,brand,none,2
+erin fetherston,brand,none,2
+skaist-taylor,brand,none,1
+day birger et mikkelsen,brand,none,4
+matthew williamson,brand,none,2
+nyc 2000,brand,none,2
+tristan webber,brand,none,2
+victoria beckham,brand,none,2
+sophie theallet,brand,none,2
+banana republic,brand,none,2
+charles nolan,brand,none,2
+leonard,brand,none,1
+zac zac posen,brand,none,3
+vika gazinskaya,brand,none,2
+lindsey thornburg,brand,none,2
+see by chloé,brand,none,3
+david koma,brand,none,2
+felder felder,brand,none,2
+iris van herpen,brand,none,3
+dagmar,brand,none,1
+donna karan,brand,none,2
+etw.vonneguet,brand,none,1
+roland mouret,brand,none,2
+marni,brand,none,1
+revillon,brand,none,1
+cut25 by yigal azrouôl,brand,none,4
+naum,brand,none,1
+rebecca danenberg,brand,none,2
+richard nicoll,brand,none,2
+bella freud,brand,none,2
+moschino,brand,none,1
+mercibeaucoup,brand,none,1
+jasmine di milo,brand,none,3
+ohne titel,brand,none,2
+wayne,brand,none,1
+hanii y,brand,none,2
+designers remix,brand,none,2
+chaiken,brand,none,1
+yigal azrouôl,brand,none,2
+jaeger london,brand,none,2
+ter et bantine,brand,none,3
+m.r.s.,brand,none,1
+mm6 maison martin margiela,brand,none,4
+shelley fox,brand,none,2
+badgley mischka,brand,none,2
+jovovich-hawk,brand,none,1
+vera wang,brand,none,2
+bodkin,brand,none,1
+toga,brand,none,1
+gary graham,brand,none,2
+tommy,brand,none,1
+abaeté,brand,none,1
+electric feathers,brand,none,2
+somarta,brand,none,1
+berardi,brand,none,1
+the elder statesman,brand,none,3
+bruce,brand,none,1
+facetasm,brand,none,1
+roksanda ilincic,brand,none,2
+jeffrey chow,brand,none,2
+karl lagerfeld,brand,none,2
+a.f. vandevorst,brand,none,2
+kenzo,brand,none,1
+y's,brand,none,1
+zuhair murad,brand,none,2
+augustin teboul,brand,none,2
+katie eary,brand,none,2
+marques'almeida,brand,none,1
+cushnie et ochs,brand,none,3
+j. mendel,brand,none,2
+sue stemp,brand,none,2
+dirk bikkembergs,brand,none,2
+st. john,brand,none,2
+topshop unique,brand,none,2
+ann demeulemeester,brand,none,2
+pedro lourenço,brand,none,2
+tuleh,brand,none,1
+farah angsana,brand,none,2
+julien macdonald,brand,none,2
+gareth pugh,brand,none,2
+marc by marc jacobs,brand,none,4
+anne klein,brand,none,2
+tocca,brand,none,1
+nomia,brand,none,1
+just cavalli,brand,none,2
+eleykishimoto ellesse,brand,none,2
+nozomi ishiguro tambourine,brand,none,3
+hugo,brand,none,1
+crippen,brand,none,1
+wendy nichol,brand,none,2
+francesc by frank tell,brand,none,4
+philipp plein,brand,none,2
+martin grant,brand,none,2
+mother of pearl,brand,none,3
+limi feu,brand,none,2
+icarius de menezes,brand,none,3
+paul & joe,brand,none,3
+jean paul gaultier,brand,none,3
+kenneth cole collection,brand,none,3
+vivienne westwood red label,brand,none,4
+nanette lepore,brand,none,2
+istvan francer,brand,none,2
+yasutoshi ezumi,brand,none,2
+undercover,brand,none,1
+myrza de muynck,brand,none,3
+talbots,brand,none,1
+daniel vosovic,brand,none,2
+mark eisen,brand,none,2
+deceive,brand,none,1
+sea,brand,none,1
+anna sui,brand,none,2
+dimitri,brand,none,1
+orla kiely,brand,none,2
+sykes,brand,none,1
+6267,brand,none,1
+kimberly ovitz,brand,none,2
+miss sixty,brand,none,2
+olympia le-tan,brand,none,2
+ne-net,brand,none,1
+felipe oliveira baptista,brand,none,3
+gianfranco ferré,brand,none,2
+nicolas andreas taralis,brand,none,3
+bottega veneta,brand,none,2
+carven,brand,none,1
+a détacher,brand,none,2
+adam selman,brand,none,2
+duro olowu,brand,none,2
+warren noronha,brand,none,2
+junya watanabe,brand,none,2
+trager delaney,brand,none,2
+alexandre plokhov,brand,none,2
+kevork kiledjian,brand,none,2
+ossie clark,brand,none,2
+creative taiwan,brand,none,2
+ralph rucci,brand,none,2
+maria grachvogel,brand,none,2
+kilian kerner,brand,none,2
+vfiles,brand,none,1
+armand basi one,brand,none,3
+alex perry,brand,none,2
+roberto cavalli,brand,none,2
+dressedundressed,brand,none,1
+preen line,brand,none,2
+cher michel klein,brand,none,3
+conny groenewegen,brand,none,2
+marissa webb,brand,none,2
+gregory parkinson,brand,none,2
+saint laurent,brand,none,2
+brian reyes,brand,none,2
+simone rocha,brand,none,2
+davidelfin,brand,none,1
+chalayan,brand,none,1
+eudon choi,brand,none,2
+ivan grundahl,brand,none,2
+victoria by victoria beckham,brand,none,4
+timo weiland,brand,none,2
+louise gray,brand,none,2
+nina ricci,brand,none,2
+laurl,brand,none,1
+matt nye,brand,none,2
+t by alexander wang,brand,none,4
+custo barcelona,brand,none,2
+porsche design,brand,none,2
+joseph,brand,none,1
+kate spade new york,brand,none,4
+stephan pelger,brand,none,2
+holmes & yang,brand,none,3
+surface to air,brand,none,3
+lanvin,brand,none,1
+m.patmos,brand,none,1
+phoenix keating,brand,none,2
+whit,brand,none,1
+bebe,brand,none,1
+jeremy scott,brand,none,2
+miu miu,brand,none,2
+icb,brand,none,1
+antonio marras,brand,none,2
+ellery,brand,none,1
+alexandre matthieu,brand,none,2
+dsquared2,brand,none,1
+costume national,brand,none,2
+c-neeon,brand,none,1
+sally lapointe,brand,none,2
+an american view,brand,none,3
+rad by rad hourani,brand,none,4
+trina turk,brand,none,2
+beautiful people,brand,none,2
+mandy coon,brand,none,2
+calvin klein collection,brand,none,3
+nonoo,brand,none,1
+akris,brand,none,1
+central saint martins,brand,none,3
+collette dinnigan,brand,none,2
+robert rodriguez,brand,none,2
+hunkydory,brand,none,1
+viktor & rolf,brand,none,3
+betty jackson,brand,none,2
+kaufmanfranco,brand,none,1
+zac posen,brand,none,2
+jay ahr,brand,none,2
+véronique leroy,brand,none,2
+project alabama,brand,none,2
+and re walker,brand,none,3
+arkadius,brand,none,1
+rachel zoe,brand,none,2
+joie,brand,none,1
+thom browne,brand,none,2
+altuzarra,brand,none,1
+osman,brand,none,1
+charles anastase,brand,none,2
+preen by thornton bregazzi,brand,none,4
+sebastian pons,brand,none,2
+holly fulton,brand,none,2
+araisara,brand,none,1
+chadwick bell,brand,none,2
+maison martin margiela,brand,none,3
+wren,brand,none,1
+ashish,brand,none,1
+christopher esber,brand,none,2
+marchesa voyage,brand,none,2
+paule ka,brand,none,2
+misha nonoo,brand,none,2
+tao,brand,none,1
+edun,brand,none,1
+karen walker,brand,none,2
+lizzy disney,brand,none,2
+max mara,brand,none,2
+john bartlett,brand,none,2
+ariunaa suri,brand,none,2
+dennis basso,brand,none,2
+bally,brand,none,1
+dax gabler,brand,none,2
+fausto puglisi,brand,none,2
+michael van der ham,brand,none,4
+raquel allegra,brand,none,2
+acne studios,brand,none,2
+assembly,brand,none,1
+la perla,brand,none,2
+jonathan saunders,brand,none,2
+issa,brand,none,1
+hood by air,brand,none,3
+derercuny,brand,none,1
+brioni,brand,none,1
+phenomenon,brand,none,1
+tze goh,brand,none,2
+jacquemus,brand,none,1
+dean quinn,brand,none,2
+sass & bide,brand,none,3
+krystof strozyna,brand,none,2
+h&m design award,brand,none,3
+sacai,brand,none,1
+fleamadonna,brand,none,1
+louis vuitton,brand,none,2
+juan carlos obando,brand,none,3
+hannah marshall,brand,none,2
+kinder aggugini,brand,none,2
+maison rabih kayrouz,brand,none,3
+tiit,brand,none,1
+tia cibani,brand,none,2
+marco de vincenzo,brand,none,3
+iceberg,brand,none,1
+sweetface,brand,none,1
+kai kùhne,brand,none,2
+markus lupfer,brand,none,2
+lp.bg,brand,none,1
+twenty8twelve,brand,none,1
+the local firm,brand,none,3
+gryphon,brand,none,1
+phi,brand,none,1
+tess giberson,brand,none,2
+cacharel,brand,none,1
+malandrino,brand,none,1
+michael angel,brand,none,2
+roksanda,brand,none,1
+imitation of christ,brand,none,3
+romance was born,brand,none,3
+bouchra jarrar,brand,none,2
+costello tagliapietra,brand,none,2
+the lake & stars,brand,none,4
+3.1 phillip lim,brand,none,3
+kris van assche,brand,none,3
+ace & jig,brand,none,3
+ato,brand,none,1
+gap,brand,none,1
+altewaisaome,brand,none,1
+danielle scutt,brand,none,2
+charlotte ronson,brand,none,2
+wood wood,brand,none,2
+nicholas k,brand,none,2
+versus,brand,none,1
+tommy hilfiger,brand,none,2
+jil sander navy,brand,none,3
+ellen tracy,brand,none,2
+prada,brand,none,1
+richard edwards,brand,none,2
+pierrot,brand,none,1
+ppq,brand,none,1
+brood,brand,none,1
+fashion east,brand,none,2
+daughters,brand,none,1
+everlasting sprout,brand,none,2
+carmen marc valvo,brand,none,3
+heatherette,brand,none,1
+céline,brand,none,1
+emma cook,brand,none,2
+frank tell,brand,none,2
+hervé léger by max azria,brand,none,5
+perry ellis,brand,none,2
+chloé,brand,none,1
+steven alan,brand,none,2
+saloni,brand,none,1
+tome,brand,none,1
+zero + maria cornejo,brand,none,4
+jean-charles de castelbajac,brand,none,3
+schumacher,brand,none,1
+elizabeth and james,brand,none,3
+apiece apart,brand,none,2
+cynthia steffe,brand,none,2
+osklen,brand,none,1
+helmut lang,brand,none,2
+trovata,brand,none,1
+carolina herrera,brand,none,2
+olivier theyskens,brand,none,2
+alexis mabille,brand,none,2
+boudicca,brand,none,1
+jc de castelbajac,brand,none,3
+rad hourani,brand,none,2
+gabriele colangelo,brand,none,2
+benjamin cho,brand,none,2
+han,brand,none,1
+juicy couture,brand,none,2
+libertine,brand,none,1
+sonia by sonia rykiel,brand,none,4
+yang li,brand,none,2
+milly,brand,none,1
+talbot runhof,brand,none,2
+miguel adrover,brand,none,2
+michon schur,brand,none,2
+norma kamali,brand,none,2
+john rocha,brand,none,2
+joe casely-hayford,brand,none,2
+ann-sofie back atelje,brand,none,3
+narciso rodriguez,brand,none,2
+paris 68,brand,none,2
+rebecca minkoff,brand,none,2
+sinha-stanic,brand,none,1
+r ii s,brand,none,3
+anna molinari,brand,none,2
+philosophy,brand,none,1
+vladimir karaleev,brand,none,2
+diesel,brand,none,1
+elise øverland,brand,none,2
+patrik ervell,brand,none,2
+a.p.c.,brand,none,1
+thimister,brand,none,1
+naeem khan,brand,none,2
+nitz schneider,brand,none,2
+mark mcnairy new amsterdam,brand,none,4
+russell sage,brand,none,2
+susan lazar,brand,none,2
+dkny,brand,none,1
+visvim,brand,none,1
+jean colonna,brand,none,2
+piece d'anarchive,brand,none,2
+thomas tait,brand,none,2
+capucci,brand,none,1
+tsumori chisato,brand,none,2
+hernàndez cornet,brand,none,2
+mary katrantzou,brand,none,2
+pamella roland,brand,none,2
+fashion fringe,brand,none,2
+noir,brand,none,1
+pam &amp; gela,brand,none,3
+zimmermann,brand,none,1
+shiroma,brand,none,1
+jonathan simkhai,brand,none,2
+novis,brand,none,1
+basso & brooke,brand,none,3
+emporio armani,brand,none,2
+jasmin shokrian draft no. 17,brand,none,5
+martine sitbon,brand,none,2
+maurizio pecoraro,brand,none,2
+wes gordon,brand,none,2
+michelle lowe_holder,brand,none,2
+organic by john patrick,brand,none,4
+katayone adeli,brand,none,2
+christian lacroix,brand,none,2
+emanuel ungaro,brand,none,2
+wunderkind,brand,none,1
+stärk,brand,none,1
+ganryu,brand,none,1
+andrew gn,brand,none,2
+han ahn soon,brand,none,3
+red valentino,brand,none,2
+sb47,brand,none,1
+the dress & co.,brand,none,4
+house of jazz,brand,none,3
+alice + olivia,brand,none,3
+bensoni,brand,none,1
+versace,brand,none,1
+sonia rykiel,brand,none,2
+malo,brand,none,1
+anrealage,brand,none,1
+vivienne westwood,brand,none,2
+julian louie,brand,none,2
+elie tahari,brand,none,2
+maxime simoôns,brand,none,2
+peter som,brand,none,2
+rodarte,brand,none,1
+joy cioci,brand,none,2
+jenni kayne,brand,none,2
+christian cota,brand,none,2
+catherine malandrino,brand,none,2
+tse,brand,none,1
+vanessa bruno,brand,none,2
+sister by sibling,brand,none,3
+toni maticevski,brand,none,2
+whistles,brand,none,1
+lyn devon,brand,none,2
+no. 21,brand,none,2
+yoshio kubo,brand,none,2
+paul smith,brand,none,2
+givenchy,brand,none,1
+tyler,brand,none,1
+camilla and marc,brand,none,3
+araks,brand,none,1
+jean-pierre braganza,brand,none,2
+whiz limited,brand,none,2
+bruno pieters,brand,none,2
+diane von furstenberg,brand,none,3
+dietrich emter,brand,none,2
+agnona,brand,none,1
+erdem,brand,none,1
+gardem,brand,none,1
+chris benz,brand,none,2
+moncler gamme rouge,brand,none,3
+katy rodriguez,brand,none,2
+todd lynn,brand,none,2
+marc jacobs,brand,none,2
+christopher kane,brand,none,2
+issey miyake,brand,none,2
+devi kroell,brand,none,2
+missoni,brand,none,1
+emilio pucci,brand,none,2
+mark fast,brand,none,2
+kelly wearstler,brand,none,2
+emilio de la morena,brand,none,4
+tribune standard,brand,none,2
+rogan,brand,none,1
+kim jones,brand,none,2
+giulietta,brand,none,1
+halston,brand,none,1
+jenny packham,brand,none,2
+aquilano.rimondi,brand,none,1
+peter pilotto,brand,none,2
+anthony vaccarello,brand,none,2
+loewe,brand,none,1
+barbara tfank,brand,none,2
+carin wester,brand,none,2
+delpozo,brand,none,1
+kenneth cole new york,brand,none,4
+aje,brand,none,1
+ostwald helgason,brand,none,2
+suno,brand,none,1
+y & kei,brand,none,3
+luca luca,brand,none,2
+genny,brand,none,1
+issever bahri,brand,none,2
+nicole miller,brand,none,2
+rachel roy,brand,none,2
+rena lange,brand,none,2
+atsushi nakashima,brand,none,2
+nathan jenden,brand,none,2
+jil sander,brand,none,2
+hugo boss,brand,none,2
+gibo,brand,none,1
+ungaro couture,brand,none,2
+bibhu mohapatra,brand,none,2
+creatures of the wind,brand,none,4
+michael sontag,brand,none,2
+peter jensen,brand,none,2
+lisa perry,brand,none,2
+lutz & patmos,brand,none,3
+jayson brunsdon,brand,none,2
+shipley & halmos,brand,none,3
+sophomore,brand,none,1
+blk dnm,brand,none,2
+behnaz sarafpour,brand,none,2
+rebecca taylor,brand,none,2
+vera wang lavender label,brand,none,4
+tracy reese,brand,none,2
+erin wasson x rvca,brand,none,4
+michael kors,brand,none,2
+trussardi,brand,none,1
+rock & republic,brand,none,3
+dresscamp,brand,none,1
+hutson,brand,none,1
+roopa pemmaraju,brand,none,2
+blaak,brand,none,1
+francesco scognamiglio,brand,none,2
+mulberry,brand,none,1
+reyes,brand,none,1
+m missoni,brand,none,2
+anne sofie madsen,brand,none,3
+daryl k,brand,none,2
+maison kitsun_,brand,none,2
+josie natori,brand,none,2
+stella mccartney,brand,none,2
+g-star,brand,none,1
+creatures of comfort,brand,none,3
+perret schaad,brand,none,2
+julien david,brand,none,2
+jason wu,brand,none,2
+dion lee,brand,none,2
+a.l.c.,brand,none,1
+tiger of sweden,brand,none,3
+matohu,brand,none,1
+nahm,brand,none,1
+cédric charlier,brand,none,2
+wc,brand,none,1
+mary ping,brand,none,2
+balenciaga,brand,none,1
+gut's dynamite cabarets,brand,none,3
+we are handsome,brand,none,3
+veronica beard,brand,none,2
+gant by michael bastian,brand,none,4
+maiyet,brand,none,1
+albino,brand,none,1
+azzaro,brand,none,1
+fendi,brand,none,1
+london roundup,brand,none,2
+douglas hannant,brand,none,2
+whyred,brand,none,1
+escada,brand,none,1
+gabrielle greiss,brand,none,2
+tim hamilton,brand,none,2
+graeme black,brand,none,2
+christopher raeburn,brand,none,2
+cerre,brand,none,1
+ports 1961,brand,none,2
+jens laugesen,brand,none,2
+naoki takizawa,brand,none,2
+calla,brand,none,1
+salvatore ferragamo,brand,none,2
+edeline lee,brand,none,2
+commuun,brand,none,1
+burberry prorsum,brand,none,2
+max azria,brand,none,2
+victor alfaro,brand,none,2
+sachin + babi,brand,none,3
+dries van noten,brand,none,3
+giorgio armani,brand,none,2
+zambesi,brand,none,1
+rick owens,brand,none,2
+robert cary-williams,brand,none,2
+phoebe english,brand,none,2
+reem acra,brand,none,2
+thakoon,brand,none,1
+maxmara atelier,brand,none,2
+alessandro dell'acqua,brand,none,2
+hien le,brand,none,2
+emma mulholland,brand,none,2
+sophia kokosalaki,brand,none,2
+ktz,brand,none,1
+rosie assoulin,brand,none,2
+clover canyon,brand,none,2
+g.v.g.v.,brand,none,1
+motonari ono,brand,none,2
+as four,brand,none,2
+haryono setiadi,brand,none,2
+msgm,brand,none,1
+monique lhuillier,brand,none,2
+elspeth gibson,brand,none,2
+jeremy laing,brand,none,2
+trademark,brand,none,1
+rodebjer,brand,none,1
+ruffo research,brand,none,2
+christian dior,brand,none,2
+strenesse,brand,none,1
+kamishima chinami,brand,none,2
+ralph lauren,brand,none,2
+a.w.a.k.e. by natalia alaverdian,brand,none,4
+rag & bone,brand,none,3
+vena cava,brand,none,2
+vivienne tam,brand,none,2
+tucker,brand,none,1
+haider ackermann,brand,none,2
+sari gueron,brand,none,2
+piazza sempione,brand,none,2
+carlos miele,brand,none,2
+moschino cheap and chic,brand,none,4
+graeme armour,brand,none,2
+frostfrench,brand,none,1
+a.w.a.k.e.,brand,none,1
+who is on next,brand,none,4
+les copains,brand,none,2
+belstaff,brand,none,1
+daks,brand,none,1
+honor,brand,none,1
+lacoste,brand,none,1
+proenza schouler,brand,none,2
+comme des garçons,brand,none,3
+jill stuart,brand,none,2
+sharon wauchob,brand,none,2
+fur fur,brand,none,2
+john galliano,brand,none,2
+theory,brand,none,1
+barbara bui,brand,none,2
+rodnik,brand,none,1
+a degree fahrenheit,brand,none,3
+alberta ferretti,brand,none,2
+pollini,brand,none,1
+cotoo,brand,none,1
+gucci,brand,none,1
+public school,brand,none,2
+vpl,brand,none,1
+j.crew,brand,none,1
+derek lam,brand,none,2
+miss wu,brand,none,2
+betsey johnson,brand,none,2
+barbara casasola,brand,none,2
+bernhard willhelm,brand,none,2
+mugler,brand,none,1
+prabal gurung,brand,none,2
+richard tyler,brand,none,2
+united bamboo,brand,none,2
+l'wren scott,brand,none,2
+samuji,brand,none,1
+tibi,brand,none,1
+stephen burrows,brand,none,2
+marjan pejoski,brand,none,2
+cg,brand,none,1
+tom ford,brand,none,2
+meadham kirchhoff,brand,none,2
+rochas,brand,none,1
+thakoon addition,brand,none,2
+tanya taylor,brand,none,2
+krizia,brand,none,1
+chloé sevigny for o.c.,brand,none,4
+christian wijnants,brand,none,2
+menichetti,brand,none,1
+et momonakia,brand,none,2
+paco rabanne,brand,none,2
+maticevski,brand,none,1
+willow,brand,none,1
+bless'ed are the meek,brand,none,4
+brandon sun,brand,none,2
+louise goldin,brand,none,2
+mcq alexander mcqueen,brand,none,3
+alice mccall,brand,none,2
+anja gockel,brand,none,2
+threeasfour,brand,none,1
+bcbg max azria,brand,none,3
+tomas maier,brand,none,2
+maki oh,brand,none,2
+verrier,brand,none,1
+yohji yamamoto,brand,none,2
+marios schwab,brand,none,2
+requiem,brand,none,1
+tory burch,brand,none,2
+lawrence steele,brand,none,2
+fay,brand,none,1
+j brand,brand,none,2
+peter soronen,brand,none,2
+bill blass,brand,none,2
+callaghan,brand,none,1
+hunter original,brand,none,2
+hermès,brand,none,1
+lagerfeld gallery,brand,none,2
+polo ralph lauren,brand,none,3
+damir doma,brand,none,2
+lela rose,brand,none,2
+cerruti,brand,none,1
+alexandre herchcovitch,brand,none,2
+io ipse idem,brand,none,3
+theyskens' theory,brand,none,2
+j.w. anderson,brand,none,2
+co,brand,none,1
+william rast,brand,none,2
+biba,brand,none,1
+kaelen,brand,none,1
+wink,brand,none,1
+tim van steenbergen,brand,none,3
+habitual,brand,none,1
+rachel comey,brand,none,2
+diesel black gold,brand,none,3
+y-3,brand,none,1
+"victoria, victoria beckham",brand,none,3
+mm6 maison martin margiela x opening ceremony,brand,none,7
+dolce & gabbana,brand,none,3
+trias,brand,none,1
+elie saab,brand,none,2
+johan ku,brand,none,2
+james long,brand,none,2
+10 crosby derek lam,brand,none,4
+riccardo tisci,brand,none,2
+diana orving,brand,none,2
+lala berlin,brand,none,2
+rue du mail,brand,none,3
+valentino,brand,none,1
+rhié,brand,none,1
+aquascutum,brand,none,1
+back,brand,none,1
+matthew ames,brand,none,2
+isabel marant,brand,none,2
+jen kao,brand,none,2
+alabama chanin,brand,none,2
+alexander mcqueen,brand,none,2
+by johnny,brand,none,2
+jasper conran,brand,none,2
+sportmax,brand,none,1
+versus versace,brand,none,2
+jnby,brand,none,1
+jun okamoto,brand,none,2
+duckie brown,brand,none,2
+billy reid,brand,none,2
+tamara mellon,brand,none,2
+nicole farhi,brand,none,2
+christian dada,brand,none,2
+veronica b. vallenes,brand,none,3

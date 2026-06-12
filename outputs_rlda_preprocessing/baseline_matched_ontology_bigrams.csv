@@ -1,0 +1,17 @@
+n,term,is_fashion,fashion_category,corpus_freq
+2,high waist,True,garment,70
+2,ball gown,True,garment,46
+2,broderie anglaise,True,material,34
+2,high low,True,style,28
+2,faux leather,True,material,14
+2,faux fur,True,material,4
+2,leg warmer,True,accessory,3
+2,low waist,True,garment,3
+2,rib knit,True,material,3
+2,teddy bear,True,garment,2
+2,empire waistline,True,garment,1
+2,fur fur,True,brand,1
+2,hair accessory,True,accessory,1
+2,jacquard knit,True,material,1
+2,one shoulder,True,garment,1
+2,wood wood,True,brand,1

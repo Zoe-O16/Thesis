@@ -1,0 +1,11 @@
+topic_id,cosine_range,global_relevance_words,recurring_chunk_words,rep_doc_confirmation,analysis,label
+0,0.83-0.92,"blazer, white, masculine, leather, skirt, trouser, pleated, jacket, shirt, couple, waist, sleeve, green, sharp, strong","skirt, jacket, leather, white, coat, pant, silk, spring, masculine, print",,,
+1,0.86-0.93,"gown, carpet, simple, silk, skirt, column, cocktail, number, beaded, neckline, strapless, beading, white, client, elegant","gown, skirt, silk, number, jacket, white, cocktail, lace, neckline, carpet",,,
+2,0.82-0.93,"print, denim, jean, shirt, hot, leopard, disco, lineup, sweatshirt, short, pant, leather, jacket, beaded, suit","print, jacket, denim, short, pant, shirt, silk, skirt, leather, cool",,,
+3,0.89-0.94,"fur, coat, shearling, leather, mink, jacket, tweed, fall, luxury, sweater, wool, outerwear, boot, cashmere, camel","coat, fur, jacket, leather, skirt, sweater, shearling, boot, mink, outerwear",,,
+4,0.83-0.91,"body, work, complex, talent, asymmetric, material, beige, belgian, leather, high, greek, shoulder, technical, art, conceptual","jacket, body, coat, skirt, work, white, art, high, leather, print",,,
+5,0.83-0.91,"performance, cultural, extravagant, giant, pure, stage, ruffle, cloud, dancer, century, culture, life, catwalk, soundtrack, audience","print, jacket, skirt, big, catwalk, gown, presentation, tulle, white, audience",,,
+6,0.83-0.91,"lingerie, chiffon, satin, lace, goddess, ribbon, sailor, fifty, short, crystal, thigh, gown, jacket, frill, corset","jacket, lace, gown, short, skirt, chiffon, print, satin, white, lingerie",,,
+7,0.82-0.92,"jean, nylon, sporty, japanese, bright, fun, young, legging, baseball, denim, stripe, teen, sport, print, pair","jacket, leather, print, young, fun, high, jean, shirt, short, denim",,,
+8,0.81-0.93,"print, skirt, blue, spring, pretty, floral, sweet, chiffon, white, creamy, blouse, sweater, hue, socialite, pink","print, skirt, white, short, floral, silk, jacket, spring, blouse, blue",,,
+9,0.86-0.93,"jacket, pant, silk, eclectic, wool, button, supple, low, cotton, skirt, linen, slung, loose, belt, tank","jacket, pant, silk, skirt, coat, print, leather, white, button, cotton",,,

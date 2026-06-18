@@ -1,0 +1,5 @@
+chunk_id,chunk_start,chunk_end,topic_id,cosine_sim,top_words_phi,top_words_rel
+11,2014-01-30,2014-06-12,8,0.8052,"coat, print, skirt, leather, silk, gown, sweater, white, cashmere, wool, jacket, suit, business, shoulder, pant","tweedy, remote, bridge, winter, pale, formal, unusual, patent, print, diverse, business, pleasure, coat, cashmere, portion"
+2,2005-02-03,2005-10-09,7,0.8201,"white, skirt, print, jacket, coat, silk, spring, pant, big, young, high, short, denim, shirt, chiffon","denim, street, legging, hoodie, graphic, white, applause, big, tennis, kitsch, fun, energy, seasonal, bright, team"
+1,2004-01-18,2004-10-10,2,0.8248,"skirt, jacket, print, chiffon, coat, silk, great, white, spring, leather, high, fur, suit, fall, blue","party, print, jean, chiffon, fun, clingy, sugar, ambition, fruit, necklace, accessory, purse, lamé, great, pool"
+11,2014-01-30,2014-06-12,5,0.8259,"coat, hand, past, skirt, leather, print, presentation, catwalk, life, real, end, fur, work, culture, jacket","culture, supermarket, life, past, mass, obsession, extravagant, movie, catwalk, ongoing, candy, exhibition, theatrical, ground, presentation"

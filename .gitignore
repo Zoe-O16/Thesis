@@ -1,0 +1,7 @@
+echo ".DS_Store" >> .gitignore
+echo "*.pkl" >> .gitignore
+echo "checkpoints/" >> .gitignore
+echo "eda_outputs/" >> .gitignore
+echo "event_chains/" >> .gitignore
+echo "milestones/" >> .gitignore
+echo "outputs_rlda_preprocessing/" >> .gitignore.DS_Store

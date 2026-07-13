@@ -1,0 +1,31 @@
+Cluster,Top verbs,Label
+0,"design, draw, layer, decorate, print, embroider, accessorize, paint, display, render",Design & Ornamentation
+1,"love, like, embrace, lay, touch, marry, seek, attract, crave, hug",Desire & Affinity
+2,"leave, throw, abandon, explode, fade, escape, disappear, kill, shed, ditch",Rejection & Departure
+3,"be, show, inspire, prove, provide, talk, expect, let, reflect, speak",Being & Presentation
+4,"pop, snap, flare, peek, shine, flash, fuse, blossom, glow, spark",Visual Effect
+5,"miss, define, nod, found, lighten, hew, hark, wove, liven, hail",Allusion
+6,"emerge, evoke, emphasize, rise, conjure, evolve, embellish, inject, elevate, embody",Evocation
+7,"have, take, want, get, give, use, put, open, add, call",Generic Action
+8,"move, sit, cover, represent, debut, march, land, place, visit, parade",Spatial Placement
+9,"work, keep, continue, produce, manage, live, focus, remain, grow, develop",Continuation & Development
+10,"turn, stand, fall, push, stick, break, hang, shape, float, range",Placement
+11,"return, recall, replace, revisit, reappear, repeat, reinterpret, reprise, rework, re",Reinterpretation
+12,"appeal, avoid, resist, distract, deny, detract, hide, ignore, refuse, eschew",Resistance
+13,"come, go, include, start, become, appear, bring, begin, suggest, create",Initiation
+14,"build, launch, lead, capture, top, aim, base, express, showcase, model",Direction & Showcase
+15,"say, do, know, explain, think, mean, end, try, happen, imagine",Cognition
+16,"cut, wrap, line, tuck, edge, tap, trim, head, whip, nail",Tailoring
+17,"fill, flow, wash, destine, filter, spill, delve, pour, wind, dispense",Fluid Motion
+18,"make, translate, construct, underscore, yield, spell, precede, complement, juxtapose, derive",Construction & Composition
+19,"wear, dress, drape, style, knit, weave, suit, sew, tailor, lace",Garment & Styling
+20,"play, strike, lose, win, match, kick, sport, settle, dominate, toss",Competition
+21,"look, seem, feel, see, find, describe, read, tell, decide, ask",Perception
+22,"veer, patchworke, hone, ampe, soundtracke, imbue, vie, tout, devise, evince",Refinement
+23,"mark, catch, bear, dub, stray, toy, stud, garner, meld, billow",Ornamentation
+24,"walk, run, explore, step, reach, fly, slip, drive, trail, travel",Traversal Motion
+25,"sound, echo, hear, riff, sing, scream, resonate, listen, accent, pronounce",Sonic Metaphors
+26,"change, extend, transform, expand, soften, morph, refine, scale, tweak, sharpen",Transformation
+27,"mix, combine, gather, separate, pack, merge, zip, divide, split, pile",Combination
+28,"stag, crop, sweep, strut, stomp, dig, pluck, finesse, scoop, skim",Runway Motion
+29,"feature, present, reveal, reference, lack, form, name, notice, note, hint",Naming & Noting

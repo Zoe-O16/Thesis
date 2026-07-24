@@ -1,0 +1,13 @@
+alphabet,unit,n_bins,mean_bin_entropy_bits,n_types
+Cluster_30,corpus,1,3.673,30
+Cluster_30,year,16,3.702,30
+Cluster_30,era,6,3.7,30
+Cluster_30,review,6492,2.735,30
+MR_4,corpus,1,1.334,4
+MR_4,year,16,1.337,4
+MR_4,era,6,1.336,4
+MR_4,review,6492,1.173,4
+Agency_6,corpus,1,2.202,6
+Agency_6,year,16,2.219,6
+Agency_6,era,6,2.215,6
+Agency_6,review,6492,1.936,6

@@ -1,0 +1,7 @@
+granularity,block,n_features,eff_dim,zero_frac,length_r_max
+clusters_30,proportion,30,7.98,0.705,0.15
+clusters_30,clr,30,21.77,0.0,0.567
+MR_4,proportion,4,2.2,0.177,0.059
+MR_4,clr,4,2.64,0.001,0.195
+Agency_6,proportion,6,3.78,0.16,0.11
+Agency_6,clr,6,4.64,0.001,0.191

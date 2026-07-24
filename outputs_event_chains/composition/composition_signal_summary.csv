@@ -1,0 +1,4 @@
+granularity,n_types,n_reviews,overdisp_median,overdisp_total,max_true_sd_pp,composition_verdict
+clusters_30,30,6501,1.043,1.029,3.14,fail
+MR_4,4,6501,1.009,1.0,2.05,fail
+Agency_6,6,6501,1.046,1.022,1.98,fail

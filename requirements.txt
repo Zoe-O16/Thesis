@@ -1,9 +1,29 @@
+# Core data / numerics
 numpy>=1.24
 pandas>=2.0
+scipy>=1.10
+statsmodels>=0.14
+
+# Plotting
 matplotlib>=3.7
 seaborn>=0.12
+
+# Machine learning / NLP
 scikit-learn>=1.3
 spacy>=3.7
-gdown>=4.7
+gensim>=4.3
+sentence-transformers>=2.2
 torch>=2.0
 transformers>=4.35
+
+# Topic modelling (RLDA via R) and visualisation
+rpy2>=3.5
+pyLDAvis>=3.4
+
+# Text cleaning
+ftfy>=6.1
+
+# Notebook / utilities
+ipython>=8.0
+requests>=2.31
+gdown>=4.7
